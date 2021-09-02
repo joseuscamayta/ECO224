@@ -1,0 +1,47 @@
+---
+title: "Report I"
+author: "José Uscamayta Quispe"
+date: "1/9/2021"
+output: pdf_document
+---
+
+\newpage
+\tableofcontents  
+\newpage
+
+## General purpose 
+
+This report deals with the Mincer paper that is well known to economists. It deals with the Earnings-Schooling-Experience relationship and the problems of contrasting the specification of the income return equation with updated data.
+
+## Summary 
+
+The paper mentions that although the Mincer equation is a good approximation of the determinants of earnings, it has several shortcomings. Therefore, it is no longer considered a good approximation of the determinants of income, since if we continued using it, we would obtain the same errors for any dataset that we use. 
+
+So the goal of this paper is to critique and reevaluate the specification of the MIncer equation for earnings. Can it be kept as a benchmark on the determinants of earnings? 
+
+## 1. Earnings in logs or not?
+
+The paper deals with is whether earnings should be specified in logarithms or not.
+It is mentioned that there is strong theoretical rationality to use the logarithms of the earning in the 
+income-human capital regression. Some studies confirm this specification as James Heckman and Polachek(1974).
+
+## 2. Linnear Eeducation?
+
+The paper refers to whether the **specification of education** should be **linear**. There are positions against and in favor of this specification. Card and Krueger(1992) conclude from their analyzes that the logarithm of earnings is an approximation of the linear function of the years of schooling except for the lowest two percentiles of the distribution of schooling. Heckman et al.(1996) concludes that the relationship is non-linear due to the large increase in earnings between 15 and 16 years of schooling. More importantly, Olivier Deschenes (2001) shows that starting in 1980, the logarithm of earnings becomes and increases in a convex function of years of schooling. Mincer (1997) argues that this increase in convexity is explained by an increase in the relative demand for skilled labor in a Becker (1975) type human capital investment model iwth heterogenous workers. Quadratic function the author conclude to perform better.
+
+## 3. Quadratic experience?
+
+The paper mentions whether the experience should be specified in **quadratic form**. To verify if this is the case, Murphy and Finist Welch (1990) use the March CPS data from 1964 to 1987, they conclude that the quadratic specification is not flexible enough to capture the main features of the experience-earning relationship. Quartic function the author conclude to perform better.
+
+## 4. Additive separability in education and experience?
+
+The author wonders if there is **additive separability** in education and experience. What is found is that MIncer's Standard Equation in which the logarithm of earning is an addtiively separable (no interaction term) function for schooling and potential experience does not fit the recent data nearly as well as it used to do in the 1960 Census. This statement is confirmed by Card and Lemieux (2001a) and Heckman et al. (2003), who conclude that the experience-earnings profile is no longer parallel with current data. The author will mention what the explanation for this change may be in the last point. 
+
+## 5. Cohort effects?
+It is concluded that if there are cohort effects, however, the study conducted by Mincer in 1974 was correctly specified and it was not necessary to add controls for cohort effects in the earning regression. Under less stable conditions, greater changes in the relative supply of different age-education groups can induce important changes in the wage structure that have to be taken into account when estimating the standard Mincer equation. This can be solved by adding cohort effects to Mincer's standard equation or by explicitly modeling relative supply and demand for different groups of workers.
+
+## 6. Conclustion
+
+The author mentions that according to the evidence presented, the Mincer equation continues to be a useful and accurate benchmark in a stable environment where educational achievement grows smoothly over succesive cohorts workers, as it did in the time period originally studied by Mincer (1974) .
+From my point of view, this paper makes me aware that as time passes, we must always adjust the models or verify that they still perform well with updated datasets. If not, we must carefully review the assumptions of the model and update them if necessary. 
+
